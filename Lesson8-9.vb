@@ -56,6 +56,10 @@ Public Class Lesson8_9
         '    MsgBox("Number two mush be bigger than zero")
         'End Try
 
+        'MsgBox(z)
+        'MsgBox(age)
+
+
         Try
             x = Me.TxtNr1.Text
             y = Me.TxtNr2.Text
